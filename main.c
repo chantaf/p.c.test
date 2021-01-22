@@ -8,6 +8,10 @@
 int BinaireToInt(int binaire, int nombre) {
 
    int result;
+	if (binaire > nombre)
+      result = binaire;
+	else
+      result = nombre;
    
    
    return result; 
