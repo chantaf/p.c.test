@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
 
 	int sous(int a,int b){
 		 int s;
-		 s=a+b;
+		 s=a-b;
 		
 		return s;
 	}
