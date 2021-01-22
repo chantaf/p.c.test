@@ -80,7 +80,7 @@ printf("\nLe nombre en decimal est : %d",d);
 
 
 
-
+//BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
 
 //ss
