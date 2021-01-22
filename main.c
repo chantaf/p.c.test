@@ -8,9 +8,17 @@
 /*int BinaireToInt(int binaire, int nombre) {
 
    int result;
+   int t[4] = {1,0,1,1};
+	
+	
+	for(int i=0;i<3;i--){
+		
+		result += t[i] * pow(2,i);
+	}
+	printf("%d",result);
    
    
-   return result; 
+   return 0; 
 }
 
 
