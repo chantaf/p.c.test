@@ -2,7 +2,9 @@
 #include <stdlib.h>
 
 int n,i;
+
  int entier_binaire(int n){
+
 
     return 0;
 }
@@ -14,7 +16,6 @@ int main(int argc, char *argv[]) {
 	int sous(int a,int b){
 		return 0;
 	}
-
 
 
 
