@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 
+
 //////// binaire to int
 int BinaireToInt(int binaire, int nombre) {
 
@@ -12,10 +13,17 @@ int BinaireToInt(int binaire, int nombre) {
 }
 
 
+int n,i;
+ int entier_binaire(int n){
+
+    return 0;
+}
+
+
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	
+
 	int sous(int a,int b){
 		
 		int m1,c1,d1,u1,r1;
@@ -43,9 +51,9 @@ int main(int argc, char *argv[]) {
 		
 		return 0;
 	}
-	
-	
-	
-	
+
+
+
+
 	return 0;
 }
