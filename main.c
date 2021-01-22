@@ -83,8 +83,9 @@ printf("\nLe nombre en decimal est : %d",d);
 
 
 
-/*//ss
+//ss
 int some(int bin1,int bin2){
+	int result=bin1+bin2;
 	return 0;
 }
 int main(int argc, char *argv[]) {
